@@ -1,0 +1,13 @@
+{
+  "productlist": [
+    {
+      "productName": "luka",
+      "category": "technolegy",
+      "date": "2022-09-06T20:00:00.000Z",
+      "freshness": "New Brand",
+      "price": 1100,
+      "comment": "sasasa",
+      "id": 1
+    }
+  ]
+}
