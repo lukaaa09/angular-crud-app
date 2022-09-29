@@ -26,6 +26,33 @@
       "price": 1111,
       "comment": "axaxa",
       "id": 4
+    },
+    {
+      "productName": "gexvewebi",
+      "category": "technolegy",
+      "date": "2022-09-19T20:00:00.000Z",
+      "freshness": "New Brand",
+      "price": 1,
+      "comment": "s",
+      "id": 5
+    },
+    {
+      "productName": "l",
+      "category": "fruits",
+      "date": "2022-09-07T20:00:00.000Z",
+      "freshness": "Second Hand",
+      "price": 111,
+      "comment": "sss",
+      "id": 6
+    },
+    {
+      "productName": "shemdegi gverdi",
+      "category": "technolegy",
+      "date": "2022-09-06T20:00:00.000Z",
+      "freshness": "New Brand",
+      "price": 100,
+      "comment": "sssss",
+      "id": 7
     }
   ]
 }
