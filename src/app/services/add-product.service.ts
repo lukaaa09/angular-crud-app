@@ -15,4 +15,10 @@ export class AddProductService {
   public getProcuct() {
     return this.http.get<any>(`${this.baseUrl}/productlist/`)
   }
+  public putProduct(data: any, id: number) {
+    return this.http.put<any>(`${this.baseUrl}/productlist/`+id, data)
+  }
+  public deleteProduct(id: number) {
+    return this.http.delete(`${this.baseUrl}/productlist/`+id)
+  }
 }

@@ -1,13 +1,31 @@
 {
   "productlist": [
     {
+      "productName": "Iphone 190",
+      "category": "technolegy",
+      "date": "2022-09-27T20:00:00.000Z",
+      "freshness": "Second Hand",
+      "price": 4000,
+      "comment": "nice to have and using Iphone",
+      "id": 2
+    },
+    {
       "productName": "luka",
       "category": "technolegy",
-      "date": "2022-09-06T20:00:00.000Z",
+      "date": "2022-09-04T20:00:00.000Z",
       "freshness": "New Brand",
-      "price": 1100,
-      "comment": "sasasa",
-      "id": 1
+      "price": 10,
+      "comment": "good",
+      "id": 3
+    },
+    {
+      "productName": "adadad",
+      "category": "technolegy",
+      "date": "2022-08-31T20:00:00.000Z",
+      "freshness": "New Brand",
+      "price": 1111,
+      "comment": "axaxa",
+      "id": 4
     }
   ]
 }
